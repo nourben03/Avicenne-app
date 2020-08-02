@@ -15,7 +15,7 @@
            },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    “siteurl”: “https://avicenne-riadh.com/formation/”
+    "siteurl": "https://avicenne-riadh.com/formation/",
     "font_sizes": [
         62.5,
         75.89,
